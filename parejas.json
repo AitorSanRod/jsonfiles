@@ -10,7 +10,7 @@
     },
     {
         "idPareja":1,
-        "pareja":"Super Salgado Bros 2",
+        "pareja":"Losa Alga 2",
         "jugadores":[5, 14],
         "partidosGanados":0,
         "puntos": 0,
@@ -21,8 +21,8 @@
         "idPareja":2,
         "pareja":"Los Pokemaníacos Salvajes",
         "jugadores":[2, 12],
-        "partidosGanados":0,
-        "puntos": 0,
+        "partidosGanados":1,
+        "puntos": 19,
         "imagen":"",
         "texto":""
     },
@@ -37,7 +37,7 @@
     },
     {
         "idPareja":4,
-        "pareja":"2",
+        "pareja":"Dos hombres y medio",
         "jugadores":[4, 9, 13],
         "partidosGanados":0,
         "puntos": 0,
@@ -55,10 +55,10 @@
     },
     {
         "idPareja":6,
-        "pareja":"4",
+        "pareja":"El del medio de los chichos",
         "jugadores":[0, 8, 11],
         "partidosGanados":0,
-        "puntos": 0,
+        "puntos": 14,
         "imagen":"",
         "texto":""
     }
