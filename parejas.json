@@ -1,0 +1,65 @@
+[
+    {
+        "idPareja":0,
+        "pareja":"0",
+        "jugadores":[10, 1, 16],
+        "partidosGanados":0,
+        "puntos": 0,
+        "imagen":"",
+        "texto":""
+    },
+    {
+        "idPareja":1,
+        "pareja":"Super Salgado Bros 2",
+        "jugadores":[5, 14],
+        "partidosGanados":0,
+        "puntos": 0,
+        "imagen":"",
+        "texto":""
+    },
+    {
+        "idPareja":2,
+        "pareja":"Los Pokemaníacos Salvajes",
+        "jugadores":[2, 12],
+        "partidosGanados":0,
+        "puntos": 0,
+        "imagen":"",
+        "texto":""
+    },
+    {
+        "idPareja":3,
+        "pareja":"1",
+        "jugadores":[7, 15],
+        "partidosGanados":0,
+        "puntos": 0,
+        "imagen":"",
+        "texto":""
+    },
+    {
+        "idPareja":4,
+        "pareja":"2",
+        "jugadores":[4, 9, 13],
+        "partidosGanados":0,
+        "puntos": 0,
+        "imagen":"",
+        "texto":""
+    },
+    {
+        "idPareja":5,
+        "pareja":"3",
+        "jugadores":[6, 3],
+        "partidosGanados":0,
+        "puntos": 0,
+        "imagen":"",
+        "texto":""
+    },
+    {
+        "idPareja":6,
+        "pareja":"4",
+        "jugadores":[0, 8, 11],
+        "partidosGanados":0,
+        "puntos": 0,
+        "imagen":"",
+        "texto":""
+    }
+]
