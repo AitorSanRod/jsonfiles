@@ -1,7 +1,7 @@
 [
     {
         "idPareja":0,
-        "pareja":"0",
+        "pareja":"Los supermotoratones chepudos",
         "jugadores":[10, 1, 16],
         "partidosGanados":0,
         "puntos": 0,
@@ -46,7 +46,7 @@
     },
     {
         "idPareja":5,
-        "pareja":"3",
+        "pareja":"Doble A",
         "jugadores":[6, 3],
         "partidosGanados":0,
         "puntos": 0,
@@ -55,7 +55,7 @@
     },
     {
         "idPareja":6,
-        "pareja":"El del medio de los chichos",
+        "pareja":"Jauma, al carrer",
         "jugadores":[0, 8, 11],
         "partidosGanados":0,
         "puntos": 14,
