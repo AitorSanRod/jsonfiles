@@ -3,7 +3,7 @@
         "nombre":"Aitor",
         "id":0,
         "puntos":65,
-        "partidosJugados":12,
+        "partidosJugados":13,
         "partidosGanados":12
     },
     {
@@ -17,8 +17,8 @@
         "nombre":"Adri",
         "id":2,
         "puntos":48,
-        "partidosJugados":10,
-        "partidosGanados":1
+        "partidosJugados":11,
+        "partidosGanados":2
     },
     {
         "nombre":"Ari",
@@ -80,15 +80,15 @@
         "nombre":"Jaime",
         "id":11,
         "puntos":26,
-        "partidosJugados":3,
+        "partidosJugados":4,
         "partidosGanados":1
     },
     {
         "nombre":"Tucho",
         "id":12,
         "puntos":49,
-        "partidosJugados":6,
-        "partidosGanados":5
+        "partidosJugados":7,
+        "partidosGanados":6
     },
     {
         "nombre":"Alberto",
