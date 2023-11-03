@@ -3,19 +3,151 @@
         "jornada":"1",
         "partidos":[
             {
-                "parejas":"PadelScript vs. Edriadna's",
+                "parejas":"Jauma, al carrer vs. Los Pokemaníacos Salvajes",
                 "estado": "Jugado"
             },
             {
-                "parejas":"Ahí va mi burst! vs. Los Hermanos Brothers",
-                "estado": "Jugado"
+                "parejas":"Doble A vs. Losa Alga 2",
+                "estado": "Pendiente"
             },
             {
-                "parejas":"Dos cojos muy mancos vs. Doctores y capibaras",
-                "estado": "Jugado"
+                "parejas":"Compitruenos vs. Dos hombres y medio",
+                "estado": "Pendiente"
             },
             {
-                "parejas":"Los agentes Mara",
+                "parejas":"Los supermotoratones chepudos",
+                "estado": "Descanso"
+            }
+        ],
+        "fecha":"Abierto"
+    },
+    {
+        "jornada":"2",
+        "partidos":[
+            {
+                "parejas":"Compitruenos vs. Los Pokemaníacos Salvajes",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Losa Alga 2 vs. Jauma, al carrer",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Los supermotoratones chepudos vs. Dos hombres y medio",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Doble A",
+                "estado": "Descanso"
+            }
+        ],
+        "fecha":"Abierto"
+    },
+    {
+        "jornada":"3",
+        "partidos":[
+            {
+                "parejas":"Los Pokemaníacos Salvajes vs. Losa Alga 2",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Dos hombres y medio vs. Doble A",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Compitruenos vs. Los supermotoratones chepudos",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Jauma, al carrer",
+                "estado": "Descanso"
+            }
+        ],
+        "fecha":"Abierto"
+    },
+    {
+        "jornada":"4",
+        "partidos":[
+            {
+                "parejas":"Dos hombres y medio vs. Jauma, al carrer",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Losa Alga 2 vs. Compitruenos",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Los supermotoratones chepudos vs. Doble A",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Los Pokemaníacos Salvajes",
+                "estado": "Descanso"
+            }
+        ],
+        "fecha":"Abierto"
+    },
+    {
+        "jornada":"5",
+        "partidos":[
+            {
+                "parejas":"Doble A vs. Compitruenos",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Los Pokemaníacos Salvajes vs. Dos hombres y medio",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Jauma, al carrer vs. Los supermotoratones chepudos",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Losa Alga 2",
+                "estado": "Descanso"
+            }
+        ],
+        "fecha":"Abierto"
+    },
+    {
+        "jornada":"6",
+        "partidos":[
+            {
+                "parejas":"Dos hombres y medio vs. Losa Alga 2",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Los supermotoratones chepudos vs. Los Pokemaníacos Salvajes",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Doble A vs. Jauma, al carrer",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Compitruenos",
+                "estado": "Descanso"
+            }
+        ],
+        "fecha":"Abierto"
+    },
+    {
+        "jornada":"7",
+        "partidos":[
+            {
+                "parejas":"Jauma, al carrer vs. Compitruenos",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Los Pokemaníacos Salvajes vs. Doble A",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Losa Alga 2 vs. Los supermotoratones chepudos",
+                "estado": "Pendiente"
+            },
+            {
+                "parejas":"Dos hombres y medio",
                 "estado": "Descanso"
             }
         ],

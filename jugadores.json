@@ -2,105 +2,105 @@
     {
         "nombre":"Aitor",
         "id":0,
-        "puntos":116,
-        "partidosJugados":11,
-        "partidosGanados":11
+        "puntos":50,
+        "partidosJugados":12,
+        "partidosGanados":12
     },
     {
         "nombre":"Roberto",
         "id":1,
-        "puntos":104,
-        "partidosJugados":10,
-        "partidosGanados":10
+        "puntos":46,
+        "partidosJugados":11,
+        "partidosGanados":11
     },
     {
         "nombre":"Adri",
         "id":2,
-        "puntos":58,
+        "puntos":32,
         "partidosJugados":10,
         "partidosGanados":1
     },
     {
         "nombre":"Ari",
         "id":3,
-        "puntos":58,
-        "partidosJugados":10,
+        "puntos":33,
+        "partidosJugados":11,
         "partidosGanados":1
     },
     {
         "nombre":"David",
         "id":4,
-        "puntos":92,
+        "puntos":37,
         "partidosJugados":10,
         "partidosGanados":6
     },
     {
         "nombre":"Salgado",
         "id":5,
-        "puntos":79,
+        "puntos":36,
         "partidosJugados":9,
         "partidosGanados":6
     },
     {
         "nombre":"Cgoob",
         "id":6,
-        "puntos":68,
+        "puntos":34,
         "partidosJugados":9,
         "partidosGanados":4
     },
     {
         "nombre":"Cris",
         "id":7,
-        "puntos":76,
+        "puntos":35,
         "partidosJugados":9,
         "partidosGanados":2
     },
     {
         "nombre":"Aser",
         "id":8,
-        "puntos":52,
+        "puntos":31,
         "partidosJugados":8,
         "partidosGanados":3
     },
     {
         "nombre":"Mora",
         "id":9,
-        "puntos":66,
+        "puntos":33,
         "partidosJugados":10,
         "partidosGanados":3
     },
     {
         "nombre":"Javi",
         "id":10,
-        "puntos":28,
-        "partidosJugados":4,
+        "puntos":21,
+        "partidosJugados":5,
         "partidosGanados":1
     },
     {
         "nombre":"Jaime",
         "id":11,
-        "puntos":20,
+        "puntos":12,
         "partidosJugados":3,
         "partidosGanados":1
     },
     {
         "nombre":"Tucho",
         "id":12,
-        "puntos":65,
+        "puntos":33,
         "partidosJugados":6,
         "partidosGanados":5
     },
     {
         "nombre":"Alberto",
         "id":13,
-        "puntos":78,
+        "puntos":36,
         "partidosJugados":7,
         "partidosGanados":6
     },
     {
         "nombre":"Víctor",
         "id":14,
-        "puntos":8,
+        "puntos":5,
         "partidosJugados":1,
         "partidosGanados":0
     },
